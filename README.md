@@ -4,7 +4,7 @@ The Reconstitution Repository publishes media and tools necessary to help motiva
 
 ## Wear-a-Mask to Keep-us-Open Project
 
-The Wear-a-Mask to Keep-us-Open project provides sign templates to educate people about the importance of wearing a mask to protect themselves and others from COVID-19 and to inform them that it is State Law (where applicable) to do so. Download the PDF Signs with MIT License: [Wear-a-Mask to Keep-us-Open](https://github.com/ChadSmith2020/reconstitution/raw/master/publications/2020-0714-wear-a-mask.pdf)  Thank you for posting these signs.
+The Wear-a-Mask to Keep-us-Open project provides sign templates to educate people about the importance of wearing a mask to protect themselves and others from COVID-19 and to inform them that it is State Law (where applicable) to do so. Download the PDF Signs with MIT License: [Wear-a-Mask to Keep-us-Open](https://github.com/ChadSmith2020/reconstitution/raw/master/publications/wear-a-mask.pdf)  Thank you for posting these signs.
 
 If there is anything found to be offensive or innacurrate, please [create an issue](https://github.com/ChadSmith2020/reconstitution/issues).
 
