@@ -4,7 +4,11 @@ The Reconstitution Repository publishes media and tools necessary to help motiva
 
 ## Wear-a-Mask to Keep-us-Open Project
 
-The Wear-a-Mask to Keep-us-Open project provides sign templates to educate people about the importance of wearing a mask to protect themselves and others from COVID-19 and to inform them that it is State Law (where applicable) to do so. Download the PDF Signs with MIT License: [Wear-a-Mask to Keep-us-Open](https://github.com/ChadSmith2020/reconstitution/raw/master/publications/wear-a-mask.pdf)  Thank you for posting these signs.
+The Wear-a-Mask to Keep-us-Open project provides sign templates to educate people about the importance of wearing a mask to protect themselves and others from COVID-19 and to inform them that it is State Law (where applicable) to do so. Download the PDF of the signs here:
+      
+      [Wear-a-Mask to Keep-us-Open (PDF)](https://github.com/ChadSmith2020/reconstitution/raw/master/publications/wear-a-mask-please.pdf)  
+ 
+ Thank you for posting these signs and [supporting this effort](https://paypal.me/skylabvr). Photoshop and image files are available at [the reconstitution GitHub site](https://github.com/ChadSmith2020/reconstitution). 
 
 If there is anything found to be offensive or inaccurate, please [create an issue](https://github.com/ChadSmith2020/reconstitution/issues).
 
@@ -14,4 +18,4 @@ Next step for this project is to convert the mask source to Keynote or Powerpoin
 
 The Reconstitution Repository and content in merged, moderated, and produced by Chad Smith. Although these artifacts are distrubuted with the MIT License, should you find value in these offerings useful please consider [donating](https://paypal.me/skylabvr) to cover expenses. Thank you for motivating and contributing to the Open Source community.  
 
-Chad Smith is an engineer, inventor, and scientist who builds global scale engineering and factory workflow automation systems for the automotive, aerospace and other industries. Skylab Research, "where the future was yesterday and tomorrow is today", designs future systems to optimize efficiency and prosperity while maintaining traditional lifestyles. The Metropolitan District Dispatch is an online publication to provide open source media artifacts to enable villages and small cities to provide important public health and economic information to their citizens in a timely and professional manner. [Please donate to sustain and motivate these efforts. Thank you.](https://paypal.me/skylabvr)
+Chad Smith is an engineer, inventor, and scientist who builds global scale engineering and factory workflow automation systems for the automotive, aerospace and other industries. Skylab Research, "where the future was yesterday and tomorrow is today", designs future systems to optimize efficiency and prosperity while maintaining traditional lifestyles. The Metropolitan District Dispatch publishes open source media artifacts to enable villages and small cities to provide important public health and economic information to their citizens in a timely and professional manner. [Please donate to sustain and motivate these efforts. Thank you.](https://paypal.me/skylabvr)
