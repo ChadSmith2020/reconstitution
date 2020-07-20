@@ -16,7 +16,7 @@ Next step for this project is to convert the mask source to Keynote or Powerpoin
 
 ## About
 
-The Reconstitution Repository and content in merged, moderated, and produced by Chad Smith. Although these artifacts are distrubuted with the MIT License, should you find value in these offerings useful please consider [donating](https://paypal.me/skylabvr) to cover expenses. Thank you for motivating and contributing to the Open Source community.  
+The Reconstitution Repository and content is merged, moderated, and produced by Chad Smith. Although these artifacts are distrubuted with the MIT License, should you find value in these offerings useful please consider [donating](https://paypal.me/skylabvr) to cover expenses. Thank you for motivating and contributing to the Open Source community.  
 
 Chad Smith is an engineer, inventor, and scientist who builds global scale engineering and factory workflow automation systems for the automotive, aerospace and other industries. Skylab Research, "where the future was yesterday and tomorrow is today", designs future systems to optimize efficiency and prosperity while maintaining traditional lifestyles. The Metropolitan District Dispatch publishes open source media artifacts to enable villages and small cities to provide important public health and economic information to their citizens in a timely and professional manner. 
 
