@@ -21,3 +21,8 @@ The Reconstitution Repository and content in merged, moderated, and produced by 
 Chad Smith is an engineer, inventor, and scientist who builds global scale engineering and factory workflow automation systems for the automotive, aerospace and other industries. Skylab Research, "where the future was yesterday and tomorrow is today", designs future systems to optimize efficiency and prosperity while maintaining traditional lifestyles. The Metropolitan District Dispatch publishes open source media artifacts to enable villages and small cities to provide important public health and economic information to their citizens in a timely and professional manner. 
 
 [Please donate to sustain and motivate these efforts](https://paypal.me/skylabvr). Thank you.
+
+
+## Updates
+
+20 July 2020 - Updated template to fix typo and added states that have mask laws
