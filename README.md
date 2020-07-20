@@ -12,7 +12,7 @@ The Wear-a-Mask to Keep-us-Open project provides sign templates to educate peopl
 
 If there is anything found to be offensive or inaccurate, please [create an issue](https://github.com/ChadSmith2020/reconstitution/issues).
 
-Next step for this project is to convert the mask source to Keynote or Powerpoint to make it easier for others to contribute. If you would like to contribute a sign or other resource, [create an issue](https://github.com/ChadSmith2020/reconstitution/issues) or publish it in a fork.
+Next step for this project is to add designs and messaging that is helpful towards controlling the spread of COVID-19, to encourage healthy social dynamics, and to motivate prosperous economic development. If you would like to contribute a sign or other resource, [create an issue](https://github.com/ChadSmith2020/reconstitution/issues) or [publish it in a fork](https://guides.github.com/activities/forking/).
 
 ## About
 
